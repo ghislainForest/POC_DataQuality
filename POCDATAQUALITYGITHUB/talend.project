@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_47-I4VxqEemCk9PTRrZt8A" label="POCDataQualityGitHub" language="java" technicalLabel="POCDATAQUALITYGITHUB" author="_47-I4lxqEemCk9PTRrZt8A" productVersion="Talend Cloud Data Management Platform-7.1.1.20190228_0243-patch" url="{&quot;location&quot;:&quot;https://github.com/ghislainForest/POC_DataQuality.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_4-KhQFxqEemCk9PTRrZt8A" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_47-I4lxqEemCk9PTRrZt8A" login="ghislain_forest@eval11557.talend.com" firstName="Ghislain" lastName="FOREST" type="DQ"/>
+</xmi:XMI>
