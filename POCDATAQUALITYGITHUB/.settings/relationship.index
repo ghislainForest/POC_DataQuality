@@ -5,6 +5,10 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_RcWqQFxyEemCk9PTRrZt8A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "DQTechnical",
     "version" : "Latest",
     "type" : "routine"
@@ -64,5 +68,9 @@
     "id" : "TalendStringUtil",
     "version" : "Latest",
     "type" : "routine"
+  }, {
+    "id" : "_RcWqQFxyEemCk9PTRrZt8A - fichier_Immatriculation",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 } ]
