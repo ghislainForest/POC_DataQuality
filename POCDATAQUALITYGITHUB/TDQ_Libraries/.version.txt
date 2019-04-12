@@ -1,2 +1,0 @@
-#Thu Apr 11 17:51:41 CEST 2019
-version=7.1.1
